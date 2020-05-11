@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TcPlcObject Version="1.1.0.1" ProductVersion="3.1.4024.3">
+  <DUT Name="ST_ELDUTTO2" Id="{4e7869d3-c8e2-4864-a560-d52126ca0762}">
+    <Declaration><![CDATA[TYPE ST_ELDUTTO2 :
+STRUCT
+	bDuttos:BOOL;
+END_STRUCT
+END_TYPE
+]]></Declaration>
+  </DUT>
+</TcPlcObject>
